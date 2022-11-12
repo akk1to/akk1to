@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DragonGMHacker
+- 👀 I’m interested in coding on my computer.
+- 🌱 I’m currently learning Python, C++ and Web3.
+- 💞️ I'm now having one website project with my friend on school.
+- 📫 Visit our project: codewebjunior.ga!
