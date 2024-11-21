@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @DragonGMHacker
-- 👀 I’m interested in coding on my computer.
-- 🌱 I’m currently learning Python, C++ and Web3.
-- 💞️ I'm now having one website project with my friend on school.
-- 📫 Visit our project: codewebjunior.ga!
+yo guys, i'm akk1to.dev. visit my profiler at https://github.com/akk1to/introduction or https://akk1to.is-a.dev. 
