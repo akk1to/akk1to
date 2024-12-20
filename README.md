@@ -5,5 +5,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
-  More information can be found on <a href="htpps://akk1to.is-a.dev">my profile</a>.
+  More information can be found on my profile.<br>
+  Website: akk1to.is-a.dev<br>
+  Contact through mail: contact@akk1to.is-a.dev
 </p>
