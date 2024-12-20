@@ -1,6 +1,7 @@
 #### &#x1f4c8; My GitHub Stats
-
+<p align="center">
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=akk1to&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
