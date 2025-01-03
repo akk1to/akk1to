@@ -25,6 +25,9 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=akk1to&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
 </p>
 
+## &#x1f4c8; Achivements
+[![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
