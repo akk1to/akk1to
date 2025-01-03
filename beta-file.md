@@ -13,12 +13,14 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 * 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
 * 🎮⠀I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
 * 🕹⠀I used to run a small Anarchy Minecraft server last year, [**9C9L**](https://akk1to.is-a.dev/discord). It was very famous, I'm going to rerun it this New Year
-* 📺 I love to watch anime, specially about love/romcon. You can 
-* 💻⠀Daily-driving a MacBook Pro 14-inch (2021) with 32GB LPDDR5 ⚡️
-* 🖥⠀Triplebooting Windows, macOS and Linux on my desktop [**(OpenCore EFI here)**](https://github.com/QuanTrieuPCYT/ASRock-B560M-Pro4_Hackintosh)
-* 🌐⠀My website: [**qtpc.tech**](https://qtpc.tech)
-* 📧⠀Email: <a href="admin@qtpc.tech">**admin@qtpc.tech**</a><br>
-#### &#x1f4c8; My GitHub Stats
+* 📺 I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
+* 💻⠀Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
+* 🖥⠀My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
+* 🌐⠀My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
+* 📧⠀Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a><br>
+**For more infomation about my devices [visit this link](https://devices.akk1to.is-a.dev)**
+***
+## &#x1f4c8; My GitHub Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=akk1to&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
 </p>
@@ -26,7 +28,15 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
+</p>
+
+***
+
+<p align="center">
+  Thank you for visiting my profile!<br>
   More information can be found on my profile.<br>
   Website: akk1to.is-a.dev<br>
   Contact through mail: contact@akk1to.is-a.dev
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=footer)
