@@ -39,4 +39,4 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
   Contact through mail: contact@akk1to.is-a.dev
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
