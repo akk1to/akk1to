@@ -31,7 +31,7 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## &#x1f4c8; Achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 Achivements
+## 💻 Contact me through
 
 <p align="left">
 <a href="https://twitter.com/dragondev_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragondev_vn" height="30" width="40" /></a>
