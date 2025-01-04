@@ -31,6 +31,18 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## &#x1f4c8; Achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 💻 Achivements
+
+<p align="left">
+<a href="https://twitter.com/dragondev_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragondev_vn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akk1to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akk1to" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/akk1to.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akk1to.dev" height="30" width="40" /></a>
+<a href="https://fb.com/akk1to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akk1to" height="30" width="40" /></a>
+<a href="https://instagram.com/akk1to.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akk1to.dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hiitoruzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiitoruzzz" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akk1to.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akk1to.dev" height="30" width="40" /></a>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
