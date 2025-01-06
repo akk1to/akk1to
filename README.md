@@ -28,6 +28,11 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akk1to&theme=tokyonight" alt="akk1to" />
 </p>
 
+## &#x1f4c8; My Wakatime status
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
+</p>
+
 ## &#x1f4c8; Achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
