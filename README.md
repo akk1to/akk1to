@@ -17,7 +17,8 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 * 💻⠀Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
 * 🖥⠀My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
 * 🌐⠀My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
-* 📧⠀Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a><br>
+* 📧⠀Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a>
+
 **For more infomation about my devices [visit this link](https://devices.akk1to.is-a.dev)**
 ***
 ## &#x1f4c8; My GitHub Stats
