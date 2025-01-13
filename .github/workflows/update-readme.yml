@@ -11,10 +11,8 @@ jobs:
       contents: write
 
     steps:
-      - name: Start checkout@v3 action
-	uses: actions/checkout@v3
-      - name: Run readme update workflow
-      	uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 	with:
