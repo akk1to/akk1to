@@ -114,7 +114,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
-`[01/13 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+`[01/13 14:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
 `[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21497`](https://github.com//JonathanGin52/JonathanGin52/issues/21497 'connect4|drop|blue|5') in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)  
@@ -307,7 +307,6 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 `[11/16 13:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/khkt-prj/tree/main) in [akk1to/khkt-prj](https://github.com/akk1to/khkt-prj)  
 `[11/16 13:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/khkt-prj](https://github.com/akk1to/khkt-prj)  
 `[11/16 07:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17208`](https://github.com//is-a-dev/register/pull/17208 'Create _github-pages-challenge-akk1to.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/16 07:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 
 </details>
 <!--END_SECTION:activity-->
