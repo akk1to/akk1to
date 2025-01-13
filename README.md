@@ -93,19 +93,23 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/13 12:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/judge-server](https://github.com/DMOJ/judge-server) to [akk1to/judge-server](https://github.com/akk1to/judge-server)  
+`[01/13 12:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/judge-server](https://github.com/DMOJ/judge-server)  
+`[01/13 12:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/online-judge](https://github.com/DMOJ/online-judge) to [akk1to/online-judge](https://github.com/akk1to/online-judge)  
+`[01/13 12:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/online-judge](https://github.com/DMOJ/online-judge)  
 `[01/13 11:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18347`](https://github.com//is-a-dev/register/issues/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 11:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 05:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[01/13 04:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 04:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[01/13 02:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+
+<details><summary>Show More</summary>
+
 `[01/13 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/13 01:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/13 01:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/themis-localhost-judger/tree/main) in [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/13 01:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
-
-<details><summary>Show More</summary>
-
 `[01/12 23:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/12 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 `[01/12 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  
@@ -286,9 +290,6 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 `[11/15 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[11/15 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[11/15 15:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17199`](https://github.com//is-a-dev/register/pull/17199 'Create demo2.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/15 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[11/15 14:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/demo2.profiler.enginecreations.io/tree/main) in [akk1to/demo2.profiler.enginecreations.io](https://github.com/akk1to/demo2.profiler.enginecreations.io)  
-`[11/15 14:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/demo2.profiler.enginecreations.io](https://github.com/akk1to/demo2.profiler.enginecreations.io)  
 
 </details>
 <!--END_SECTION:activity-->
