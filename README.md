@@ -52,6 +52,7 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/13 04:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[01/13 02:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/13 01:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
@@ -61,10 +62,10 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 `[01/12 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 `[01/12 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  
 `[01/12 03:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18229`](https://github.com//is-a-dev/register/issues/18229 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[01/11 12:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18229`](https://github.com//is-a-dev/register/pull/18229 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 
 <details><summary>Show More</summary>
 
+`[01/11 12:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18229`](https://github.com//is-a-dev/register/pull/18229 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/11 12:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18090`](https://github.com//is-a-dev/register/issues/18090 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/11 12:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18090`](https://github.com//is-a-dev/register/pull/18090 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/11 00:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
@@ -247,8 +248,6 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 `[11/15 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[11/15 14:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/enginecreations.github.io/tree/main) in [akk1to/enginecreations.github.io](https://github.com/akk1to/enginecreations.github.io)  
 `[11/15 14:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/enginecreations.github.io](https://github.com/akk1to/enginecreations.github.io)  
-`[11/15 14:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17197`](https://github.com//is-a-dev/register/pull/17197 'Create demo1.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/15 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 
 </details>
 <!--END_SECTION:activity-->
