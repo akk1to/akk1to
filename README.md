@@ -52,6 +52,16 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#18229](https://github.com/is-a-dev/register/pull/18229#issuecomment-2585572757) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#18229](https://github.com/is-a-dev/register/pull/18229) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#18090](https://github.com/is-a-dev/register/pull/18090#issuecomment-2585234840) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❌ Closed PR [#18090](https://github.com/is-a-dev/register/pull/18090) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#18090](https://github.com/is-a-dev/register/pull/18090#issuecomment-2581936306) in [is-a-dev/register](https://github.com/is-a-dev/register)
+6. 🗣 Commented on [#18090](https://github.com/is-a-dev/register/pull/18090#issuecomment-2581513575) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. 🗣 Commented on [#18090](https://github.com/is-a-dev/register/pull/18090#issuecomment-2581504617) in [is-a-dev/register](https://github.com/is-a-dev/register)
+8. 💪 Opened PR [#17977](https://github.com/is-a-dev/register/pull/17977) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. 🎉 Merged PR [#1](https://github.com/akk1to/orz-blog/pull/1) in [akk1to/orz-blog](https://github.com/akk1to/orz-blog)
+10. 🗣 Commented on [#1](https://github.com/akk1to/orz-blog/pull/1#issuecomment-2566173661) in [akk1to/orz-blog](https://github.com/akk1to/orz-blog)
 <!--END_SECTION:activity-->
 
 ---
