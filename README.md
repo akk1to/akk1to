@@ -36,7 +36,7 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 
 ## &#x1f4c8; Anime Stats
 <p align="center">
-<img align="center" src="https://img.anili.st/user/161753" width="800">
+<img align="center" src="https://img.anili.st/user/7119125" width="800">
 </p>
 
 <details>
