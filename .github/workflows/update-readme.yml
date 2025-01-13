@@ -1,4 +1,4 @@
-name: Update README - Recent activities
+name: Update README
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -15,7 +15,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-	with:
-	  COMMIT_MSG: "[akk1to] ⚡Update recent activities"
-	  MAX_LINES: 10
-	  COMMIT_NAME: [akk1to] Activity Bot
+        with:
+          COMMIT_MSG: "[akk1to] ⚡ Update recent activities"
+          MAX_LINES: 10
+          COMMIT_NAME: activity-bot
