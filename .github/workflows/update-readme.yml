@@ -16,6 +16,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "[akk1to] ⚡ Update recent activities"
+          GH_USERNAME: akk1to
+          COMMIT_MSG: "⚡ Update recent activities"
           MAX_LINES: 10
           COMMIT_NAME: activity-bot
+          TARGET_FILE: README.md
