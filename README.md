@@ -34,6 +34,47 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
 </p>
 
+## &#x1f4c8; Anime Stats
+<p align="center">
+<img align="center" src="https://img.anili.st/user/161753" width="800">
+</p>
+
+<details>
+<summary>Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+
+<!-- anilist_activity ends -->
+
+</details>
+
+<details>
+<summary>List of favourite animes</summary>
+  
+<!-- favorites_anime starts -->
+
+<!-- favorites_anime ends -->
+
+</details>
+
+<details>
+<summary>List of favorite characters</summary>
+  
+<!-- favorites_characters starts -->
+
+<!-- favorites_characters ends -->
+
+</details>
+
+<details>
+<summary>List of favorite mangas</summary>
+  
+<!-- favorites_manga starts -->
+
+<!-- favorites_manga ends -->
+
+</details>
+
 ## &#x1f4c8; Achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
