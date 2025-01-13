@@ -40,6 +40,8 @@ Display: 15.6" (1920x1080 Full HD 60Hz)
 Sound: Dolby Audio (integrated)
 Hubs: x1 3.5mm Hub, x2 USB 3.2, x1 HDMI 2.1, x1 USB-C 3.2 (data transfer, PowerDelivery & DisplayPort), x1 SD hub
 Connections: Bluetooth 5.2, Wi-Fi 6 (802.11ax)
+Size: 359.3mm length x 235mm wide x 17.9mm height - 1.62kg
+Battery: 4-cell 47Wh (up to 6 hours long, have Rapid Charge)
 OS: Windows 11 23H2 22631.4602 (installed on 12/1/2025 [I reseted the laptop lmao])
 Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to/theme-configuration)
 ```
