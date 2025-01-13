@@ -114,6 +114,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21497`](https://github.com//JonathanGin52/JonathanGin52/issues/21497 'connect4|drop|blue|5') in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)  
 `[01/13 13:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2427`](https://github.com//benjaminsampica/benjaminsampica/issues/2427 'roll|warrior') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/13 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  
@@ -123,10 +124,10 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 `[01/13 12:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/online-judge](https://github.com/DMOJ/online-judge) to [akk1to/online-judge](https://github.com/akk1to/online-judge)  
 `[01/13 12:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/online-judge](https://github.com/DMOJ/online-judge)  
 `[01/13 11:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18347`](https://github.com//is-a-dev/register/issues/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[01/13 11:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 
 <details><summary>Show More</summary>
 
+`[01/13 11:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 05:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 `[01/13 04:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 04:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
@@ -309,8 +310,6 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 `[11/16 01:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#17198`](https://github.com//is-a-dev/register/pull/17198 'Create enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[11/15 23:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17199`](https://github.com//is-a-dev/register/issues/17199 'Create demo2.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[11/15 23:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
-`[11/15 23:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17197`](https://github.com//is-a-dev/register/issues/17197 'Create demo1.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/15 23:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
 
 </details>
 <!--END_SECTION:activity-->
