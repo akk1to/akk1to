@@ -29,8 +29,6 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akk1to&theme=tokyonight" alt="akk1to" />
 </p>
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
-
 ## &#x1f4c8; My Wakatime status
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
