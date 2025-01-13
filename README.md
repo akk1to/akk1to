@@ -29,6 +29,25 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akk1to&theme=tokyonight" alt="akk1to" />
 </p>
 
+## &#x1f4c8; About my workspace
+```
+Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN)
+CPU: AMD Ryzen 7520U @ 2.8GHz (up to 4.3GHz) [4 Cores 8 Threads] with Radeon Graphics
+GPU: AMD Radeon 610M (2 cores, 1.9GHz) [with AMD Freesync, up to 4 displays]
+RAM: 16GB LPDDR5 5500MHZ (onboard)
+SSD: 512GB SSD NVME PCIe Gen 4.0
+Display: 15.6" (1920x1080 Full HD 60Hz)
+Sound: Dolby Audio (integrated)
+Hubs: x1 3.5mm Hub, x2 USB 3.2, x1 HDMI 2.1, x1 USB-C 3.2 (data transfer, PowerDelivery & DisplayPort), x1 SD hub
+Connections: Bluetooth 5.2, Wi-Fi 6 (802.11ax)
+OS: Windows 11 23H2 22631.4602 (installed on 12/1/2025 [I reseted the laptop lmao])
+Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to/theme-configuration)
+```
+
+<p align="center">
+<img align="center" src="https://github.com/user-attachments/assets/22df1ce1-8280-46a1-9731-cb6ce12e47ba" />
+</p>
+
 ## &#x1f4c8; My Wakatime status
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
