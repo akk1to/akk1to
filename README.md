@@ -52,10 +52,9 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
-***
+---
 
 <p align="center"> 
   Visitor count<br>
