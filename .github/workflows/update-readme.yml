@@ -1,0 +1,23 @@
+name: Update README - Recent activities
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Start checkout@v3 action
+	uses: actions/checkout@v3
+      - name: Run readme update workflow
+      	uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+	with:
+	  COMMIT_MSG: "[akk1to] ⚡Update recent activities"
+	  MAX_LINES: 10
+	  COMMIT_NAME: [akk1to] Activity Bot
