@@ -49,6 +49,12 @@ I'm a student who got addited to coding, aim of acquiring acknowledgements in th
 <a href="https://codeforces.com/profile/akk1to.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akk1to.dev" height="30" width="40" /></a>
 </p>
 
+## 🗃️ Recent activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
