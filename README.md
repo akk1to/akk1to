@@ -93,6 +93,8 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 
 </details>
 
+*Anilist status will automatically update every 5mins if change exits*
+
 ## &#x1f4c8; Achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

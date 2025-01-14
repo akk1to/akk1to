@@ -1,0 +1,52 @@
+name: Synchronize Anilist stats
+on:
+    schedule:
+      - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+      - name: Set up Python environment to run update script
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v3
+        name: Configure pip caching for the Python environment to install dependencies
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies to run update scripts
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Update README
+        env:
+          ANILIST_TOKEN: ${{ secrets.ANILIST_TOKEN }}
+        run: |-
+          python favorites_updater.py
+          python activity_updater.py
+          cat README.md
+      - name: Import GPG key (from secrets) to sign commits
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - name: Commit and push if changes are detected
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+        run: |-
+          git pull
+          git diff
+          git config --global user.email "dragongm1981@gmail.com"
+          git config --global user.name "akk1to.dev"
+          git add -A
+          git commit -m "[akk1to.dev] Update Anilist stats" || exit 0
+          git remote set-url --push origin https://akk1to:$GITHUB_TOKEN@github.com/akk1to/akk1to
+          git push
