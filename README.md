@@ -113,6 +113,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/14 12:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18443`](https://github.com//is-a-dev/register/pull/18443 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
 `[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
@@ -122,10 +123,10 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 `[01/13 13:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tothepointcode/server_template](https://github.com/tothepointcode/server_template)  
 `[01/13 12:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/judge-server](https://github.com/DMOJ/judge-server) to [akk1to/judge-server](https://github.com/akk1to/judge-server)  
 `[01/13 12:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/judge-server](https://github.com/DMOJ/judge-server)  
-`[01/13 12:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/online-judge](https://github.com/DMOJ/online-judge) to [akk1to/online-judge](https://github.com/akk1to/online-judge)  
 
 <details><summary>Show More</summary>
 
+`[01/13 12:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/online-judge](https://github.com/DMOJ/online-judge) to [akk1to/online-judge](https://github.com/akk1to/online-judge)  
 `[01/13 12:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/online-judge](https://github.com/DMOJ/online-judge)  
 `[01/13 11:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18347`](https://github.com//is-a-dev/register/issues/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/13 11:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18347`](https://github.com//is-a-dev/register/pull/18347 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
