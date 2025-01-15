@@ -26,6 +26,17 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 ## &#x1f4c8; My GitHub Stats
 <p align="center">
 <img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=akk1to&count_private=true&theme=tokyonight&show_icons=true" height="150px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1to.github.io&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=chuyentinorz-landing-pages&theme=dark" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=orz-blog&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=orz-wikipedia&theme=dark" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=cf-problems&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1to.work&theme=dark" />
+<br>
 </p>
 
 ## &#x1f4c8; About my workspace
@@ -54,8 +65,13 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
 </p>
 
-## &#x1f4c8; Anime Stats
+## &#x1f4c8; My Discord status
 <p align="center">
+<img align="center" src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
+</p>
+
+## &#x1f4c8; Anime Stats
+<p align="left">
 <img align="center" src="https://img.anili.st/user/7119125" width="800">
 </p>
 
