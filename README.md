@@ -7,19 +7,19 @@ Now, at the age of 15, I've already become fluent in some well-known programming
 So, if you wanna explore it with me, let's journey together into the exciting world of coding and gaming. There's so much to explore, and I'm just getting started!
 ***
 ## Some infos about me:
-* 🎂⠀My birthday is November 20th, 2009 (I'm 15 year-old rightnow!)
-* 📍⠀I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
-* ⌚  My timezone is GMT+07, Asia/Ho_Chi_Minh zone
-* 🏫⠀Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
-* 🧑‍💻  I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
-* 📑  Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
-* 🎮⠀I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
-* 🕹⠀I used to run a small Anarchy Minecraft server last year, [**9C9L**](https://akk1to.is-a.dev/discord). It was very famous, I'm going to rerun it this New Year
-* 📺  I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
-* 💻⠀Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
-* 🖥⠀My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
-* 🌐⠀My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
-* 📧⠀Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a>
+* 🎂 My birthday is November 20th, 2009 (I'm 15 year-old rightnow!)
+* 📍 I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
+* ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
+* 🏫 Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
+* 🧑‍💻 I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
+* 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
+* 🎮 I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
+* 🕹 I used to run a small Anarchy Minecraft server last year, [**9C9L**](https://akk1to.is-a.dev/discord). It was very famous, I'm going to rerun it this New Year
+* 📺 I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
+* 💻 Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
+* 🖥 My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
+* 🌐 My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
+* 📧 Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a>
 
 **For more infomation about my devices [visit this link](https://devices.akk1to.is-a.dev)**
 ***
