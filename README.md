@@ -1,19 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=akk1to.dev&textBg=false&section=header)
 # Welcome to my profile!
-I'm akk1to (aka Kuzeki Hitoru/hiitoru.dev), an 15-year old Vietnamese student.
+Hello world! Im akk1to, a developer! I'm a 15-year-old student from Vietnam who's get addicted to coding, building apps, games (also breaking it lmao). I've been hooked on computer since I was 5, start to learn code in 8, starting from Scratch, a cool beginner-friendly programming language that's now very popular with young children! On Scratch, I've tried to make basic games and started to learn about coding language!
 
-I'm a student who got addited to coding, aim of acquiring acknowledgements in the tech field of life
+Now, at the age of 15, I've already become fluent in some well-known programming language like C++, Java, Python,... But I'm not only coding! I'm also a huge fan of game, especially Minecraft. I've already played Minecraft since I was 8, so that I've played Minecraft for about 7yrs! I love tinkering with it, understanding how it works, and creating my own stuff like plugins and mods. Minecraft is like a dream playground for developers like me.
+
+So, if you wanna explore it with me, let's journey together into the exciting world of coding and gaming. There's so much to explore, and I'm just getting started!
 ***
 ## Some infos about me:
 * 🎂⠀My birthday is November 20th, 2009 (I'm 15 year-old rightnow!)
 * 📍⠀I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
-* ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
+* ⌚  My timezone is GMT+07, Asia/Ho_Chi_Minh zone
 * 🏫⠀Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
-* 🧑‍💻 I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
-* 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
+* 🧑‍💻  I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
+* 📑  Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
 * 🎮⠀I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
 * 🕹⠀I used to run a small Anarchy Minecraft server last year, [**9C9L**](https://akk1to.is-a.dev/discord). It was very famous, I'm going to rerun it this New Year
-* 📺 I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
+* 📺  I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
 * 💻⠀Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
 * 🖥⠀My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
 * 🌐⠀My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
@@ -95,8 +97,15 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 
 *Anilist status will automatically update every 5mins if change exits*
 
-## &#x1f4c8; Achivements
+## &#x1f4c8; Github achivements
 [![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🎮 Games I'm playing
+* Steam Account: MikuStillLove (killme091).
+* Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55)
+* Minecraft: KuzekiHitoru (Premium account) & DreamsDragon_YTB (non-Premium account)
+* Valorant: KleeSoCute#akito & I Miss Her#I Los
+* Strinova: Mahiruchan (Gold IV, 15/1/2024)
 
 ## 💻 Contact me through
 
