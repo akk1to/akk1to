@@ -342,7 +342,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 
 <p align="center">
   Thank you for visiting my profile!<br>
-  More information can be found on my profile.<br>
+  More information can be found on my own website.<br>
   Website: akk1to.is-a.dev<br>
   Contact through mail: contact@akk1to.is-a.dev
 </p>
