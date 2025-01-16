@@ -114,7 +114,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 *Anilist status will automatically update every 5mins if change exits*
 
 ## &#x1f4c8; Github achivements
-[![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**!! Trophy stats API error, will be fixed soon. !!**
 
 ## 🎮 Games I'm playing
 * Steam Account: MikuStillLove (killme091).
