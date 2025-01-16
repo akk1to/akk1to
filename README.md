@@ -138,7 +138,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
-`[01/15 13:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+`[01/15 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/14 12:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18443`](https://github.com//is-a-dev/register/pull/18443 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
@@ -327,7 +327,6 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 `[11/17 13:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/profile.enginecreations](https://github.com/akk1to/profile.enginecreations)  
 `[11/17 13:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17199`](https://github.com//is-a-dev/register/issues/17199 'Create demo2.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[11/17 13:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17197`](https://github.com//is-a-dev/register/issues/17197 'Create demo1.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/17 03:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/enginecreations.github.io](https://github.com/akk1to/enginecreations.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
