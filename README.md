@@ -62,7 +62,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 
 ## &#x1f4c8; My Wakatime status
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" width="800" />
 </p>
 
 ## &#x1f4c8; My Discord status
@@ -71,7 +71,7 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 </p>
 
 ## &#x1f4c8; Anime Stats
-<p align="left">
+<p align="center">
 <img align="center" src="https://img.anili.st/user/7119125" width="800">
 </p>
 
