@@ -123,6 +123,19 @@ Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to
 * Valorant: KleeSoCute#akito & I Miss Her#I Los
 * Strinova: Mahiruchan (Gold IV, 15/1/2024)
 
+## 🎮 Community Voting Pool
+**Question:** Rate my profile README?
+
+**How to vote?** Just click on the header link, it will automatically create new issue. Just click "Submit new issue" and wait 30s for the results to be updated
+
+<div align="center">
+
+|☆|☆☆|☆☆☆|☆☆☆☆|☆☆☆☆☆|
+|-|-|-|-|-|
+|0|0|0|0|0|
+
+</div>
+
 ## 💻 Contact me through
 
 <p align="left">
