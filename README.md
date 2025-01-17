@@ -39,6 +39,9 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 <br>
 </p>
 
+## &#x1f4c8; Github achivements
+![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark&row=1)
+
 ## &#x1f4c8; About my workspace
 ```
 Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN - Model 82XQ)
@@ -112,10 +115,7 @@ Authentication: Windows Hello (Fingeprint reader)
 
 </details>
 
-*Anilist status will automatically update every 5mins if change exits*
-
-## &#x1f4c8; Github achivements
-![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark&row=1)
+*Anilist status will automatically update every 5mins if change exits (broken)*
 
 ## 🎮 Games I'm playing
 * Steam Account: MikuStillLove (killme091).
@@ -123,6 +123,12 @@ Authentication: Windows Hello (Fingeprint reader)
 * Minecraft: KuzekiHitoru (Premium account) & DreamsDragon_YTB (non-Premium account)
 * Valorant: KleeSoCute#akito & I Miss Her#I Los
 * Strinova: Mahiruchan (Gold IV, 15/1/2024)
+
+## 🎶 Listen to my favourite playlist: Album Từng ngày như mãi mãi - buitruonglinh
+
+You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on Spotify [right here](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D?si=SnKED_4RSzWeSSX3yjnOeg).
+
+![image](https://github.com/user-attachments/assets/ee7ea0a6-aadf-4320-b8ed-8e1f16574839)
 
 ## 💻 Contact me through
 
