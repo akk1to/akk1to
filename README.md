@@ -41,10 +41,10 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 
 ## &#x1f4c8; About my workspace
 ```
-Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN)
-CPU: AMD Ryzen 7520U @ 2.8GHz (up to 4.3GHz) [4 Cores 8 Threads] with Radeon Graphics
-GPU: AMD Radeon 610M (2 cores, 1.9GHz) [with AMD Freesync, up to 4 displays]
-RAM: 16GB LPDDR5 5500MHZ (onboard)
+Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN - Model 82XQ)
+CPU: AMD Ryzen 7520U @ 2.8GHz (up to 4.3GHz) [4 Cores 8 Threads] with Radeon Graphics (AMD Virtualization enabled)
+GPU: AMD Radeon 610M (2 cores, 1.9GHz, 2GB VRAM) [with AMD Freesync, up to 4 displays] (support DirectX 12)
+RAM: 16GB LPDDR5 5500MHZ (onboard) 
 SSD: 512GB SSD NVME PCIe Gen 4.0
 Display: 15.6" (1920x1080 Full HD 60Hz)
 Sound: Dolby Audio (integrated)
@@ -52,8 +52,9 @@ Hubs: x1 3.5mm Hub, x2 USB 3.2, x1 HDMI 2.1, x1 USB-C 3.2 (data transfer, PowerD
 Connections: Bluetooth 5.2, Wi-Fi 6 (802.11ax)
 Size: 359.3mm length x 235mm wide x 17.9mm height - 1.62kg
 Battery: 4-cell 47Wh (up to 6 hours long, have Rapid Charge)
-OS: Windows 11 23H2 22631.4602 (installed on 12/1/2025 [I reseted the laptop lmao])
+OS: Windows 11 Home (Single Language) 64-bit (10.0, build 22631) (installed on 12/1/2025 [I reseted the laptop lmao])
 Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to/theme-configuration)
+Authentication: Windows Hello (Fingeprint reader)
 ```
 
 <p align="center">
