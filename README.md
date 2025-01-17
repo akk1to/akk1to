@@ -35,7 +35,7 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=orz-wikipedia&theme=dark" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=cf-problems&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1to.work&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1toprof&theme=dark" />
 <br>
 </p>
 
