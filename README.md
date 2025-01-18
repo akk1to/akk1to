@@ -70,6 +70,10 @@ Authentication: Windows Hello (Fingeprint reader)
 </p>
 
 ## &#x1f4c8; My Discord status
+![status](https://api.statusbadges.me/badge/status/727497287777124414?style=for-the-badge)
+![playing](https://api.statusbadges.me/badge/playing/727497287777124414?style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/727497287777124414?style=for-the-badge)
+[![spotify](https://api.statusbadges.me/badge/spotify/727497287777124414?style=for-the-badge)](https://api.statusbadges.me/openspotify/727497287777124414)
 <p align="center">
 <img align="center" src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
 </p>
