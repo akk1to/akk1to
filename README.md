@@ -149,19 +149,24 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/18 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
+`[01/18 12:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/chuyentinorz-landing-pages](https://github.com/akk1to/chuyentinorz-landing-pages)  
+`[01/18 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
+`[01/18 12:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/school-violation/tree/main) in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
+`[01/18 12:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 `[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/14 12:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18443`](https://github.com//is-a-dev/register/pull/18443 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
 `[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+
+<details><summary>Show More</summary>
+
 `[01/13 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21497`](https://github.com//JonathanGin52/JonathanGin52/issues/21497 'connect4|drop|blue|5') in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)  
 `[01/13 13:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2427`](https://github.com//benjaminsampica/benjaminsampica/issues/2427 'roll|warrior') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/13 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  
 `[01/13 13:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tothepointcode/server_template](https://github.com/tothepointcode/server_template)  
 `[01/13 12:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/judge-server](https://github.com/DMOJ/judge-server) to [akk1to/judge-server](https://github.com/akk1to/judge-server)  
-
-<details><summary>Show More</summary>
-
 `[01/13 12:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/judge-server](https://github.com/DMOJ/judge-server)  
 `[01/13 12:11]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DMOJ/online-judge](https://github.com/DMOJ/online-judge) to [akk1to/online-judge](https://github.com/akk1to/online-judge)  
 `[01/13 12:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DMOJ/online-judge](https://github.com/DMOJ/online-judge)  
@@ -329,10 +334,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[11/21 15:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tarampampam/domains](https://github.com/tarampampam/domains)  
 `[11/21 15:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)  
 `[11/20 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/register](https://github.com/akk1to/register)  
-`[11/20 04:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17265`](https://github.com//is-a-dev/register/pull/17265 'Update akk1to.json (add MX record for mail service)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/20 04:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `652` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[11/18 12:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17197`](https://github.com//is-a-dev/register/issues/17197 'Create demo1.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[11/18 12:29]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#17197`](https://github.com//is-a-dev/register/pull/17197 'Create demo1.profiler.enginecreations.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 
 </details>
 <!--END_SECTION:activity-->
