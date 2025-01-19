@@ -43,6 +43,11 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 ![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark&row=1)
 
 ## &#x1f4c8; About my workspace
+![os](https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![laptop](https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![cpu](https://img.shields.io/badge/AMD%20Radeon_7520U%20@%202.8GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![ram](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![gpu](https://img.shields.io/badge/AMD%20Radeon%20610M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ```
 Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN - Model 82XQ)
 CPU: AMD Ryzen 7520U @ 2.8GHz (up to 4.3GHz) [4 Cores 8 Threads] with Radeon Graphics (AMD Virtualization enabled)
