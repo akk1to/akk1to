@@ -149,6 +149,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/19 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web)  
 `[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
 `[01/19 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)  
 `[01/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf)  
@@ -158,10 +159,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/18 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/18 12:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/school-violation/tree/main) in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 `[01/18 12:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/school-violation](https://github.com/akk1to/school-violation)  
-`[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 <details><summary>Show More</summary>
 
+`[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/14 12:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18443`](https://github.com//is-a-dev/register/pull/18443 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
