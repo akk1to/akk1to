@@ -11,6 +11,7 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 * 📍 I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
 * ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
 * 🏫 Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
+* 💖 I'm in love with Mihara Momoco (Anh Thw)
 * 🧑‍💻 I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
 * 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
 * 🎮 I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
@@ -43,10 +44,13 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 ![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark&row=1)
 
 ## &#x1f4c8; About my workspace
-![laptop](https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![cpu](https://img.shields.io/badge/AMD%20Radeon_7520U%20@%202.8GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![ram](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![gpu](https://img.shields.io/badge/AMD%20Radeon%20610M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20Radeon_7520U%20@%202.8GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20Radeon%20610M-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</p>
+
 ```
 Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN - Model 82XQ)
 CPU: AMD Ryzen 7520U @ 2.8GHz (up to 4.3GHz) [4 Cores 8 Threads] with Radeon Graphics (AMD Virtualization enabled)
