@@ -157,6 +157,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/22 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
 `[01/21 12:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/19 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abd-Beltaji/Badger](https://github.com/Abd-Beltaji/Badger)  
@@ -166,10 +167,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JeremyTsaii/leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)  
 `[01/19 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudiptob2/cf-stats](https://github.com/sudiptob2/cf-stats)  
 `[01/19 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web)  
-`[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
 
 <details><summary>Show More</summary>
 
+`[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
 `[01/19 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)  
 `[01/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf)  
 `[01/18 15:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zii/netscape](https://github.com/zii/netscape)  
@@ -340,9 +341,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/enginecreations.github.io](https://github.com/akk1to/enginecreations.github.io)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/profile.enginecreations](https://github.com/akk1to/profile.enginecreations)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
-`[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/register](https://github.com/akk1to/register)  
-`[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
-`[11/26 01:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
 
 </details>
 <!--END_SECTION:activity-->
