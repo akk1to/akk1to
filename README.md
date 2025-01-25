@@ -339,7 +339,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/introduction](https://github.com/akk1to/introduction)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/demo2.profiler.enginecreations.io](https://github.com/akk1to/demo2.profiler.enginecreations.io)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/khkt-prj](https://github.com/akk1to/khkt-prj)  
-`[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 </details>
 <!--END_SECTION:activity-->
