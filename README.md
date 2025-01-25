@@ -157,6 +157,8 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/BrowserDataExtractor](https://github.com/danghuutruong/BrowserDataExtractor)  
+`[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
 `[01/25 10:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spoiledcat/git-for-unity](https://github.com/spoiledcat/git-for-unity)  
 `[01/25 10:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ollama/ollama](https://github.com/ollama/ollama)  
 `[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
@@ -165,11 +167,11 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abd-Beltaji/Badger](https://github.com/Abd-Beltaji/Badger)  
 `[01/19 08:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datarootsio/github-stats-card](https://github.com/datarootsio/github-stats-card)  
 `[01/19 08:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Platane/snk](https://github.com/Platane/snk)  
-`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexzaworski/PageSpeed-Badges](https://github.com/alexzaworski/PageSpeed-Badges)  
-`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JeremyTsaii/leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)  
 
 <details><summary>Show More</summary>
 
+`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexzaworski/PageSpeed-Badges](https://github.com/alexzaworski/PageSpeed-Badges)  
+`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JeremyTsaii/leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)  
 `[01/19 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudiptob2/cf-stats](https://github.com/sudiptob2/cf-stats)  
 `[01/19 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web)  
 `[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
@@ -337,8 +339,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/atgtsystem](https://github.com/akk1to/atgtsystem)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/demo1.profiler.enginecreations.io](https://github.com/akk1to/demo1.profiler.enginecreations.io)  
 `[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/introduction](https://github.com/akk1to/introduction)  
-`[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/demo2.profiler.enginecreations.io](https://github.com/akk1to/demo2.profiler.enginecreations.io)  
-`[11/30 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akk1to/khkt-prj](https://github.com/akk1to/khkt-prj)  
 
 </details>
 <!--END_SECTION:activity-->
