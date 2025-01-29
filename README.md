@@ -19,6 +19,7 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 * 📺 I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
 * 💻 Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
 * 🖥 My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
+* 🔑 My GPG key: [`2EAEDAEA0E9DD99E`](https://github.com/akk1to.gpg)
 * 🌐 My website: [**akk1to.is-a.dev**](https://akk1to.is-a.dev)
 * 📧 Email: <a href="contact@akk1to.is-a.dev">**contact@akk1to.is-a.dev**</a>
 
