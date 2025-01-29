@@ -170,6 +170,8 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[01/29 09:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+`[01/29 08:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  
 `[01/28 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/26 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/26 07:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
@@ -178,11 +180,11 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
 `[01/25 10:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spoiledcat/git-for-unity](https://github.com/spoiledcat/git-for-unity)  
 `[01/25 10:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ollama/ollama](https://github.com/ollama/ollama)  
-`[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
-`[01/22 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
 
 <details><summary>Show More</summary>
 
+`[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
+`[01/22 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
 `[01/21 12:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/19 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abd-Beltaji/Badger](https://github.com/Abd-Beltaji/Badger)  
 `[01/19 08:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datarootsio/github-stats-card](https://github.com/datarootsio/github-stats-card)  
@@ -349,7 +351,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[12/04 11:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[12/02 15:30]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours) to [akk1to/wakatime-hours](https://github.com/akk1to/wakatime-hours)  
 `[12/02 15:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)  
-`[12/02 15:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
