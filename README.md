@@ -77,6 +77,10 @@ Authentication: Windows Hello (Fingeprint reader)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" width="800" />
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## &#x1f4c8; My Discord status
 ![status](https://api.statusbadges.me/badge/status/727497287777124414?style=for-the-badge)
 ![playing](https://api.statusbadges.me/badge/playing/727497287777124414?style=for-the-badge)
