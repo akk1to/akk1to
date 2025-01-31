@@ -263,7 +263,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/02 12:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17977`](https://github.com//is-a-dev/register/pull/17977 'Create blog.chuyentinorz.json (have A record and TXT record, Vercel hosting)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/02 12:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[01/02 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/01 09:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/cf-problems](https://github.com/akk1to/cf-problems)  
 
 </details>
 <!--END_SECTION:activity-->
