@@ -260,8 +260,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/03 06:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)  
 `[01/03 06:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/02 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Stef-00012/personal-site](https://github.com/Stef-00012/personal-site)  
-`[01/02 12:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17977`](https://github.com//is-a-dev/register/pull/17977 'Create blog.chuyentinorz.json (have A record and TXT record, Vercel hosting)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[01/02 12:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/register](https://github.com/akk1to/register)  
 
 </details>
 <!--END_SECTION:activity-->
