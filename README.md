@@ -252,8 +252,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/04 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/04 15:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)  
 `[01/04 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/04 07:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  
-`[01/04 07:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)  
 
 </details>
 <!--END_SECTION:activity-->
