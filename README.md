@@ -256,7 +256,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/04 07:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)  
 `[01/04 07:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)  
 `[01/04 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/04 06:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/cf-problems](https://github.com/akk1to/cf-problems)  
 
 </details>
 <!--END_SECTION:activity-->
