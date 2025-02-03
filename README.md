@@ -248,8 +248,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/06 03:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/06 03:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/05 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diced/zipline](https://github.com/diced/zipline)  
-`[01/04 15:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/SmolBook](https://github.com/SmolLemon/SmolBook)  
-`[01/04 15:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
