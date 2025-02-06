@@ -170,6 +170,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[02/06 12:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[02/03 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
 `[02/03 14:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/ai-brower-agent/tree/main) in [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
 `[02/03 14:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
@@ -179,10 +180,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/29 08:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  
 `[01/28 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/26 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
-`[01/26 07:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 
 <details><summary>Show More</summary>
 
+`[01/26 07:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/26 07:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2437`](https://github.com//benjaminsampica/benjaminsampica/issues/2437 'roll|rogue') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/BrowserDataExtractor](https://github.com/danghuutruong/BrowserDataExtractor)  
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
