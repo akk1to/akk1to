@@ -242,8 +242,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/11 12:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18090`](https://github.com//is-a-dev/register/pull/18090 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[01/11 00:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 `[01/10 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
-`[01/10 07:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18090`](https://github.com//is-a-dev/register/issues/18090 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[01/10 07:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 
 </details>
 <!--END_SECTION:activity-->
