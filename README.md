@@ -237,7 +237,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/12 23:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/12 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 `[01/12 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)  
-`[01/12 03:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18229`](https://github.com//is-a-dev/register/issues/18229 'Create wiki.chuyentinorz.json') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 
 </details>
 <!--END_SECTION:activity-->
