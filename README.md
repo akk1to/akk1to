@@ -235,7 +235,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/13 01:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/themis-localhost-judger/tree/main) in [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/13 01:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/themis-localhost-judger](https://github.com/akk1to/themis-localhost-judger)  
 `[01/12 23:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/12 22:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/orz-wikipedia](https://github.com/akk1to/orz-wikipedia)  
 
 </details>
 <!--END_SECTION:activity-->
