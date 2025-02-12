@@ -170,6 +170,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[02/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)  
 `[02/10 11:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Stef-00012/Zipline-Android-App](https://github.com/Stef-00012/Zipline-Android-App)  
 `[02/07 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collective/icalendar](https://github.com/collective/icalendar)  
 `[02/07 01:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jazzband/icalevents](https://github.com/jazzband/icalevents)  
@@ -179,10 +180,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/03 14:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
 `[01/31 03:08]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [nil1729/book-store-nodejs](https://github.com/nil1729/book-store-nodejs) to [akk1to/oceanbox-store](https://github.com/akk1to/oceanbox-store)  
 `[01/31 03:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nil1729/book-store-nodejs](https://github.com/nil1729/book-store-nodejs)  
-`[01/29 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 <details><summary>Show More</summary>
 
+`[01/29 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/29 08:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  
 `[01/28 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[01/26 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
