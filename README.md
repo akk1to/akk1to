@@ -213,9 +213,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/18 12:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 `[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/14 12:25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18443`](https://github.com//is-a-dev/register/pull/18443 'Update akk1to.json (add redirect links)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
-`[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+`[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 </details>
 <!--END_SECTION:activity-->
