@@ -216,10 +216,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/14 11:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/13 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moepoi/moepoi](https://github.com/moepoi/moepoi)  
 `[01/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/13 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#21497`](https://github.com//JonathanGin52/JonathanGin52/issues/21497 'connect4|drop|blue|5') in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)  
-`[01/13 13:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2427`](https://github.com//benjaminsampica/benjaminsampica/issues/2427 'roll|warrior') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
-`[01/13 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)  
-`[01/13 13:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tothepointcode/server_template](https://github.com/tothepointcode/server_template)  
 
 </details>
 <!--END_SECTION:activity-->
