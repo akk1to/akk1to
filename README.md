@@ -216,7 +216,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/18 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/18 12:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/school-violation/tree/main) in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 `[01/18 12:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/school-violation](https://github.com/akk1to/school-violation)  
-`[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
+`[01/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 </details>
 <!--END_SECTION:activity-->
