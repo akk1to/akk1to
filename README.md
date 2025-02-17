@@ -211,7 +211,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)  
 `[01/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf)  
 `[01/18 15:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zii/netscape](https://github.com/zii/netscape)  
-`[01/18 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 
 </details>
 <!--END_SECTION:activity-->
