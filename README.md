@@ -212,10 +212,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf)  
 `[01/18 15:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zii/netscape](https://github.com/zii/netscape)  
 `[01/18 12:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
-`[01/18 12:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/chuyentinorz-landing-pages](https://github.com/akk1to/chuyentinorz-landing-pages)  
-`[01/18 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
-`[01/18 12:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/school-violation/tree/main) in [akk1to/school-violation](https://github.com/akk1to/school-violation)  
-`[01/18 12:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/school-violation](https://github.com/akk1to/school-violation)  
 
 </details>
 <!--END_SECTION:activity-->
