@@ -209,7 +209,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web)  
 `[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
 `[01/19 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)  
-`[01/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf)  
 
 </details>
 <!--END_SECTION:activity-->
