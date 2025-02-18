@@ -207,7 +207,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JeremyTsaii/leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)  
 `[01/19 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudiptob2/cf-stats](https://github.com/sudiptob2/cf-stats)  
 `[01/19 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web)  
-`[01/19 05:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kulkarniankita/discover-coffee-stores](https://github.com/kulkarniankita/discover-coffee-stores)  
 
 </details>
 <!--END_SECTION:activity-->
