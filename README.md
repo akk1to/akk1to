@@ -200,12 +200,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/22 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/upload.cdn](https://github.com/akk1to/upload.cdn)  
 `[01/21 12:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[01/19 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abd-Beltaji/Badger](https://github.com/Abd-Beltaji/Badger)  
-`[01/19 08:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datarootsio/github-stats-card](https://github.com/datarootsio/github-stats-card)  
-`[01/19 08:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Platane/snk](https://github.com/Platane/snk)  
-`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexzaworski/PageSpeed-Badges](https://github.com/alexzaworski/PageSpeed-Badges)  
-`[01/19 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JeremyTsaii/leetcode-stats](https://github.com/JeremyTsaii/leetcode-stats)  
-`[01/19 08:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sudiptob2/cf-stats](https://github.com/sudiptob2/cf-stats)  
 
 </details>
 <!--END_SECTION:activity-->
