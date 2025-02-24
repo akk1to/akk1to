@@ -197,7 +197,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
 `[01/25 10:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spoiledcat/git-for-unity](https://github.com/spoiledcat/git-for-unity)  
 `[01/25 10:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ollama/ollama](https://github.com/ollama/ollama)  
-`[01/25 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
