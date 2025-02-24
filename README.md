@@ -195,8 +195,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/26 07:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2437`](https://github.com//benjaminsampica/benjaminsampica/issues/2437 'roll|rogue') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/BrowserDataExtractor](https://github.com/danghuutruong/BrowserDataExtractor)  
 `[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
-`[01/25 10:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spoiledcat/git-for-unity](https://github.com/spoiledcat/git-for-unity)  
-`[01/25 10:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ollama/ollama](https://github.com/ollama/ollama)  
 
 </details>
 <!--END_SECTION:activity-->
