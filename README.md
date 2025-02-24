@@ -193,8 +193,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/26 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[01/26 07:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
 `[01/26 07:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2437`](https://github.com//benjaminsampica/benjaminsampica/issues/2437 'roll|rogue') in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)  
-`[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/BrowserDataExtractor](https://github.com/danghuutruong/BrowserDataExtractor)  
-`[01/25 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [danghuutruong/fumo-nuke-by-truongtrung-v2](https://github.com/danghuutruong/fumo-nuke-by-truongtrung-v2)  
 
 </details>
 <!--END_SECTION:activity-->
