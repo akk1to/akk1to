@@ -191,7 +191,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[01/31 03:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nil1729/book-store-nodejs](https://github.com/nil1729/book-store-nodejs)  
 `[01/29 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[01/29 08:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)  
-`[01/28 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
