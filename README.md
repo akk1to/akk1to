@@ -174,6 +174,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[02/28 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[02/26 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 `[02/26 14:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 `[02/26 14:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
@@ -183,10 +184,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/15 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google-gemini/generative-ai-python](https://github.com/google-gemini/generative-ai-python)  
 `[02/12 15:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/docs/tree/main) in [akk1to/docs](https://github.com/akk1to/docs)  
 `[02/12 15:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/docs](https://github.com/akk1to/docs)  
-`[02/12 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kurocha/setup-cpp](https://github.com/kurocha/setup-cpp)  
 
 <details><summary>Show More</summary>
 
+`[02/12 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kurocha/setup-cpp](https://github.com/kurocha/setup-cpp)  
 `[02/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)  
 `[02/10 11:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Stef-00012/Zipline-Android-App](https://github.com/Stef-00012/Zipline-Android-App)  
 `[02/07 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collective/icalendar](https://github.com/collective/icalendar)  
