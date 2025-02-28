@@ -73,6 +73,10 @@ Authentication: Windows Hello (Fingeprint reader)
 <img align="center" src="https://github.com/user-attachments/assets/22df1ce1-8280-46a1-9731-cb6ce12e47ba" />
 </p>
 
+<p align="center">
+<img align="center" src="https://github.com/user-attachments/assets/65943024-0ac6-49a3-bdf4-04ee48c6d34f" />
+</p>
+
 ## &#x1f4c8; My Wakatime status
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" width="800" />
