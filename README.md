@@ -174,6 +174,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[03/05 13:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/05 05:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20857`](https://github.com//is-a-dev/register/pull/20857 'Rename the txt record, goes back to the parent domain') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[03/05 05:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/04 14:50]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20834`](https://github.com//is-a-dev/register/pull/20834 'Update blogs.akk1to.json (A records is not working with my vercel page)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
@@ -183,10 +184,10 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/03 14:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20792`](https://github.com//is-a-dev/register/pull/20792 'Create blogs.akk1to.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[03/03 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/03 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[03/03 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 
 <details><summary>Show More</summary>
 
+`[03/03 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/03 13:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `134` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/02 12:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/02 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/blogs/tree/main) in [akk1to/blogs](https://github.com/akk1to/blogs)  
@@ -211,9 +212,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/07 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collective/icalendar](https://github.com/collective/icalendar)  
 `[02/07 01:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jazzband/icalevents](https://github.com/jazzband/icalevents)  
 `[02/06 12:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
-`[02/03 14:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
-`[02/03 14:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/ai-brower-agent/tree/main) in [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
-`[02/03 14:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/ai-brower-agent](https://github.com/akk1to/ai-brower-agent)  
 
 </details>
 <!--END_SECTION:activity-->
