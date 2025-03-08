@@ -211,7 +211,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/10 11:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Stef-00012/Zipline-Android-App](https://github.com/Stef-00012/Zipline-Android-App)  
 `[02/07 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collective/icalendar](https://github.com/collective/icalendar)  
 `[02/07 01:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jazzband/icalevents](https://github.com/jazzband/icalevents)  
-`[02/06 12:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
