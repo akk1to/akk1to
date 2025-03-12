@@ -208,7 +208,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/12 15:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/docs](https://github.com/akk1to/docs)  
 `[02/12 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kurocha/setup-cpp](https://github.com/kurocha/setup-cpp)  
 `[02/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nuitka/Nuitka-Action](https://github.com/Nuitka/Nuitka-Action)  
-`[02/10 11:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Stef-00012/Zipline-Android-App](https://github.com/Stef-00012/Zipline-Android-App)  
 
 </details>
 <!--END_SECTION:activity-->
