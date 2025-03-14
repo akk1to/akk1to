@@ -149,7 +149,7 @@ Astro        1 hr 10 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ## 📫 My Blogpost
 
 <!-- feed start -->
-
+- 5 March - [[Tài liệu công khai] Toàn văn giới thiệu về tổ chức The Base](https://blog.chuyentinorz.is-a.dev/gbd-al001/)
 <!-- feed end -->
 
 ## 🎮 Games I'm playing
