@@ -210,8 +210,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/24 12:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb) to [akk1to/xemtkb](https://github.com/akk1to/xemtkb)  
 `[02/24 12:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 `[02/15 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google-gemini/generative-ai-python](https://github.com/google-gemini/generative-ai-python)  
-`[02/12 15:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/docs/tree/main) in [akk1to/docs](https://github.com/akk1to/docs)  
-`[02/12 15:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/docs](https://github.com/akk1to/docs)  
 
 </details>
 <!--END_SECTION:activity-->
