@@ -1,0 +1,20 @@
+name: Feed post from blogs
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          format: '- ${day} ${monthlong} - [${title}](${url})'
+          timezone: 'Asia/Ho_Chi_Minh'
+          url: https://blogs.akk1to.is-a.dev/rss.xml
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
