@@ -146,6 +146,12 @@ Astro        1 hr 10 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 *Anilist status will automatically update every 5mins if change exits (broken)*
 
+## 📫 My Blogpost
+
+<!-- feed start -->
+
+<!-- feed end -->
+
 ## 🎮 Games I'm playing
 * Steam Account: MikuStillLove (killme091).
 * Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55)
