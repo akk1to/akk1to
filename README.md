@@ -180,6 +180,8 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[03/14 07:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page) to [akk1to/akk1toblog](https://github.com/akk1to/akk1toblog)  
+`[03/14 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[03/14 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page)  
 `[03/08 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/05 05:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20857`](https://github.com//is-a-dev/register/pull/20857 'Rename the txt record, goes back to the parent domain') in [is-a-dev/register](https://github.com/is-a-dev/register)  
@@ -188,11 +190,11 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/04 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/04 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[03/03 14:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20792`](https://github.com//is-a-dev/register/issues/20792 'Create blogs.akk1to.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[03/03 14:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20792`](https://github.com//is-a-dev/register/pull/20792 'Create blogs.akk1to.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[03/03 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 
 <details><summary>Show More</summary>
 
+`[03/03 14:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20792`](https://github.com//is-a-dev/register/pull/20792 'Create blogs.akk1to.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
+`[03/03 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/03 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/03 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/03 13:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `134` commits in [akk1to/register](https://github.com/akk1to/register)  
