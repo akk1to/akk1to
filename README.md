@@ -11,7 +11,6 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 * 📍 I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
 * ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
 * 🏫 Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
-* 💖 I'm in love with Mihara Momoco (Anh Thw)
 * 🧑‍💻 I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
 * 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
 * 🎮 I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
