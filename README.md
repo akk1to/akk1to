@@ -215,8 +215,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[02/26 14:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 `[02/26 14:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 `[02/26 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/xemtkb](https://github.com/akk1to/xemtkb)  
-`[02/24 12:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb) to [akk1to/xemtkb](https://github.com/akk1to/xemtkb)  
-`[02/24 12:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
 
 </details>
 <!--END_SECTION:activity-->
