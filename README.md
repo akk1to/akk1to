@@ -211,10 +211,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/01 03:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/orz-blog](https://github.com/akk1to/orz-blog)  
 `[02/28 07:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to.github.io](https://github.com/akk1to/akk1to.github.io)  
 `[02/28 06:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[02/26 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
-`[02/26 14:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
-`[02/26 14:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//vmquan08/xemtkb/pull/1 'Update UI Design (beta v1.0.0)') in [vmquan08/xemtkb](https://github.com/vmquan08/xemtkb)  
-`[02/26 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/xemtkb](https://github.com/akk1to/xemtkb)  
 
 </details>
 <!--END_SECTION:activity-->
