@@ -203,9 +203,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/03 13:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/03 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 `[03/03 13:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `134` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[03/02 12:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/blogs](https://github.com/akk1to/blogs)  
-`[03/02 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/blogs/tree/main) in [akk1to/blogs](https://github.com/akk1to/blogs)  
-`[03/02 12:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6959` commits in [akk1to/register](https://github.com/akk1to/register)  
 
 </details>
 <!--END_SECTION:activity-->
