@@ -197,7 +197,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/04 14:50]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20834`](https://github.com//is-a-dev/register/pull/20834 'Update blogs.akk1to.json (A records is not working with my vercel page)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[03/04 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [akk1to/register](https://github.com/akk1to/register)  
 `[03/04 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[03/03 14:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20792`](https://github.com//is-a-dev/register/issues/20792 'Create blogs.akk1to.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 
 </details>
 <!--END_SECTION:activity-->
