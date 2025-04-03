@@ -194,9 +194,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 
 `[03/05 05:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20857`](https://github.com//is-a-dev/register/pull/20857 'Rename the txt record, goes back to the parent domain') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[03/05 05:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[03/04 14:50]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20834`](https://github.com//is-a-dev/register/pull/20834 'Update blogs.akk1to.json (A records is not working with my vercel page)') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[03/04 14:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `107` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[03/04 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 
 </details>
 <!--END_SECTION:activity-->
