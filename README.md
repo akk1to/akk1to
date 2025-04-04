@@ -190,11 +190,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/14 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page)  
 `[03/08 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/blogs](https://github.com/akk1to/blogs)  
 
-<details><summary>Show More</summary>
-
-`[03/05 05:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20857`](https://github.com//is-a-dev/register/pull/20857 'Rename the txt record, goes back to the parent domain') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-`[03/05 05:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [akk1to/register](https://github.com/akk1to/register)  
-
 </details>
 <!--END_SECTION:activity-->
 
