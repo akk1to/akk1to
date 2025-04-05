@@ -65,7 +65,7 @@ Size: 359.3mm length x 235mm wide x 17.9mm height - 1.62kg
 Battery: 4-cell 47Wh (up to 6 hours long, have Rapid Charge)
 OS: Windows 11 Home (Single Language) 64-bit (10.0, build 22631) (installed on 12/1/2025 [I reseted the laptop lmao])
 Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to/theme-configuration)
-Authentication: Windows Hello (Fingeprint reader)
+Authentication: Windows Hello (Fingerprint reader)
 ```
 
 <p align="center">
