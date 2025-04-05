@@ -179,6 +179,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[04/05 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thonny/thonny](https://github.com/thonny/thonny)  
 `[03/22 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[03/14 23:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/hugopage](https://github.com/akk1to/hugopage)  
 `[03/14 23:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `747` commits in [akk1to/register](https://github.com/akk1to/register)  
@@ -188,6 +189,9 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/14 07:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page) to [akk1to/akk1toblog](https://github.com/akk1to/akk1toblog)  
 `[03/14 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[03/14 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page)  
+
+<details><summary>Show More</summary>
+
 `[03/08 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 
 </details>
