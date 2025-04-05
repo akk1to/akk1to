@@ -7,7 +7,7 @@ Now, at the age of 17, I've already become fluent in some well-known programming
 So, if you wanna explore it with me, let's journey together into the exciting world of coding and gaming. There's so much to explore, and I'm just getting started!
 ***
 ## Some infos about me:
-* 🎂 My birthday is November 20th, 2009 (I'm 15 year-old rightnow!)
+* 🎂 My birthday is November 20th, 2009 (I'm 17 year-old rightnow!)
 * 📍 I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
 * ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
 * 🏫 Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
