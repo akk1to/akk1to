@@ -194,7 +194,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 
 `[03/14 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
 `[03/14 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page)  
-`[03/08 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/blogs](https://github.com/akk1to/blogs)  
 
 </details>
 <!--END_SECTION:activity-->
