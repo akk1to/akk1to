@@ -190,12 +190,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[03/14 23:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/hugopage/tree/main) in [akk1to/hugopage](https://github.com/akk1to/hugopage)  
 `[03/14 23:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/hugopage](https://github.com/akk1to/hugopage)  
 
-<details><summary>Show More</summary>
-
-`[03/14 07:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page) to [akk1to/akk1toblog](https://github.com/akk1to/akk1toblog)  
-`[03/14 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[03/14 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SmolLemon/smollemon.page](https://github.com/SmolLemon/smollemon.page)  
-
 </details>
 <!--END_SECTION:activity-->
 
