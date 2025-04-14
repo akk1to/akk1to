@@ -184,11 +184,6 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[04/05 01:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [thonny/thonny](https://github.com/thonny/thonny) to [akk1to/thonnyMOD](https://github.com/akk1to/thonnyMOD)  
 `[04/05 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thonny/thonny](https://github.com/thonny/thonny)  
 `[03/22 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/akk1to](https://github.com/akk1to/akk1to)  
-`[03/14 23:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/hugopage](https://github.com/akk1to/hugopage)  
-`[03/14 23:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `747` commits in [akk1to/register](https://github.com/akk1to/register)  
-`[03/14 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/hugopage](https://github.com/akk1to/hugopage)  
-`[03/14 23:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/hugopage/tree/main) in [akk1to/hugopage](https://github.com/akk1to/hugopage)  
-`[03/14 23:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/hugopage](https://github.com/akk1to/hugopage)  
 
 </details>
 <!--END_SECTION:activity-->
