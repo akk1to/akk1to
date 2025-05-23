@@ -179,6 +179,9 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
+`[05/23 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
+`[05/23 02:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//akk1toTeam/farc2025-demo-hollandquiz/pull/1 'feat: Update README.md') in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
+`[05/23 02:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//akk1toTeam/farc2025-demo-hollandquiz/pull/1 'feat: Update README.md') in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
 `[05/18 11:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)  
 `[05/15 14:26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [is-a-dev/register](https://github.com/is-a-dev/register) to [akk1to/register](https://github.com/akk1to/register)  
 `[05/15 13:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ngxson/vintern-realtime-demo](https://github.com/ngxson/vintern-realtime-demo)  
@@ -186,12 +189,12 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 `[05/13 08:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
 `[05/10 03:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [akk1to/farc2025-template](https://github.com/akk1to/farc2025-template)  
 `[05/10 02:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [akk1to/farc2025-template](https://github.com/akk1to/farc2025-template)  
-`[05/10 02:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/farc2025-template/tree/main) in [akk1to/farc2025-template](https://github.com/akk1to/farc2025-template)  
-`[05/07 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lehuygiang28/vnpay](https://github.com/lehuygiang28/vnpay)  
-`[05/05 10:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z411/trackma](https://github.com/z411/trackma)  
 
 <details><summary>Show More</summary>
 
+`[05/10 02:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/akk1to/farc2025-template/tree/main) in [akk1to/farc2025-template](https://github.com/akk1to/farc2025-template)  
+`[05/07 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lehuygiang28/vnpay](https://github.com/lehuygiang28/vnpay)  
+`[05/05 10:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z411/trackma](https://github.com/z411/trackma)  
 `[04/27 10:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)  
 
 </details>
