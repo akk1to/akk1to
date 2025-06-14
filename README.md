@@ -185,9 +185,9 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 ## 🗃️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/akk1toTeam/farc2025-demo-hollandquiz/pull/1) in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)
-2. 💪 Opened PR [#1](https://github.com/akk1toTeam/farc2025-demo-hollandquiz/pull/1) in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)
-`[05/23 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
+1. 💪 Opened PR [#23565](https://github.com/is-a-dev/register/pull/23565) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [#1](https://github.com/akk1toTeam/farc2025-demo-hollandquiz/pull/1) in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)
+3. 💪 Opened PR [#1](https://github.com/akk1toTeam/farc2025-demo-hollandquiz/pull/1) in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)
 `[05/23 02:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//akk1toTeam/farc2025-demo-hollandquiz/pull/1 'feat: Update README.md') in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
 `[05/23 02:31]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//akk1toTeam/farc2025-demo-hollandquiz/pull/1 'feat: Update README.md') in [akk1toTeam/farc2025-demo-hollandquiz](https://github.com/akk1toTeam/farc2025-demo-hollandquiz)  
 `[05/18 11:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)  
