@@ -102,6 +102,12 @@ C++                16 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <img align="center" src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
 </p>
 
+## 🎧 Now listening to
+
+<p align="center">
+  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ki3izwarkotf2krqm2cepjadka&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
 ## &#x1f4c8; Anime Stats
 <p align="center">
 <img align="center" src="https://img.anili.st/user/7119125" width="800">
