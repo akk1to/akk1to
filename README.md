@@ -161,7 +161,7 @@ YAML               2 hrs 2 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 * Steam Account: MikuStillLove (killme091).
 * Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55)
 * Minecraft: KuzekiHitoru (Premium account) & DreamsDragon_YTB (non-Premium account)
-* Valorant: KleeSoCute#akito & I Miss Her#I Los
+* Valorant: Kanna Kamui#Kamui
 * Strinova: Mahiruchan (Gold IV, 15/1/2024)
 
 ## 🎶 Listen to my favourite playlist: Album Từng ngày như mãi mãi - buitruonglinh
