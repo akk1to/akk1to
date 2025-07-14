@@ -192,7 +192,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/akk1to/count.svg" /><br>
+  <img src="https://count.getloli.com/@akk1to?name=akk1to&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" /><br>
 </p>
 
 ***
