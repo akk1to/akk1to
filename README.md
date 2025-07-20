@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=akk1to.dev&textBg=false&section=header)
+
+<div align="center">
+  <img src="http://cdn.akk1to.tech:3000/u/X4pLCO.png">
+</div>
+
 # Welcome to my profile!
 Hello world! Im akk1to, a developer! I'm a 17-year-old student from Vietnam who's get addicted to coding, building apps, games (also breaking it lmao). I've been hooked on computer since I was 5, start to learn code in 8, starting from Scratch, a cool beginner-friendly programming language that's now very popular with young children! On Scratch, I've tried to make basic games and started to learn about coding language!
 
