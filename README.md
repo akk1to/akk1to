@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img src="http://cdn.akk1to.tech:3000/u/X4pLCO.png">
-</div>
+<img width="1920" height="884" alt="panorama_overlay" src="https://github.com/user-attachments/assets/54234be4-4d9b-4c3f-8752-81db5f0059db" />
 
 # Welcome to my profile!
 Hello world! Im akk1to, a developer! I'm a 17-year-old student from Vietnam who's get addicted to coding, building apps, games (also breaking it lmao). I've been hooked on computer since I was 5, start to learn code in 8, starting from Scratch, a cool beginner-friendly programming language that's now very popular with young children! On Scratch, I've tried to make basic games and started to learn about coding language!
