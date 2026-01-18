@@ -3,44 +3,46 @@
 <div align="center">
 
 <br>
+<h1>the state of mind (akk1to.dev)</h1>
+
 A self-motivated developer, loves learning by doing projects<br>
 I work as a student at the day and a full-stack software engineer at the night<br>
 akk1to x ValerieAstro0o, since October 23, 2025<br>
 
+---
   
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-%237AB26B.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![VueJS](https://img.shields.io/badge/vue-%2341B883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![npm](https://img.shields.io/badge/NPM-F54A2A?style=for-the-badge&logo=npm&logoColor=white) ![pnpm](https://img.shields.io/badge/PNPM-F9B008?style=for-the-badge&logo=pnpm&logoColor=white)
 
 </div>
 
-# Welcome to my profile!
+# About me
 Hello world! Im akk1to, a developer! I'm a 17-year-old student from Vietnam who's get addicted to coding, building apps, games (also breaking it lmao). I've been hooked on computer since I was 5, start to learn code in 8, starting from Scratch, a cool beginner-friendly programming language that's now very popular with young children! On Scratch, I've tried to make basic games and started to learn about coding language!
 
 Now, at the age of 17, I've already become fluent in some well-known programming language like C++, Java, Python,... But I'm not only coding! I'm also a huge fan of game, especially Minecraft. I've already played Minecraft since I was 8, so that I've played Minecraft for about 9yrs! I love tinkering with it, understanding how it works, and creating my own stuff like plugins and mods. Minecraft is like a dream playground for developers like me.
 
-So, if you wanna explore it with me, let's journey together into the exciting world of coding and gaming. There's so much to explore, and I'm just getting started!
+So, if you wanna explore it with me, let's journey together into the exciting world of coding and gaming. There's so much to explore, this is just the start!
 ***
-## Some infos about me:
-* 🎂 My birthday is November 20th, 2009 (I'm 17 year-old rightnow!)
-* 📍 I'm living at Thoi Hoa. Ben Cat, Binh Duong, Vietnam
-* ⌚ My timezone is GMT+07, Asia/Ho_Chi_Minh zone
-* 🏫 Currently a first-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/)
-* 🧑‍💻 I started to coding since 2 years ago, started with competitive programming. You can visit my [**CodeForces handle**](https://codeforces.com/profile/akk1to.dev) right here
-* 📑 Currently I'm working on a lot of projects myself. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories)
-* 🎮 I play Minecraft, Valorant, Strinova, and more. Scroll down below to know my list of games that I play and how to play with me
-* 🕹 I used to run a small Anarchy Minecraft server last year, [**9C9L**](https://akk1to.is-a.dev/discord). It was very famous, I'm going to rerun it this New Year
-* 📺 I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://redirect.akk1to.is-a.dev/anime.html) (currently not wokring)
-* 💻 Daily-driving a Lenovo Ideapad Slim 3 15AMN8 with 16GB RAM LPDDR5 5500MHZ ⚡️
-* 🖥 My laptop is modded with MacOS theme by using MyDockFinder and Wallpaper Engine [**Configuration here**](https://github.com/akk1to/theme-configuration)
-* 🔑 My GPG key: [`2EAEDAEA0E9DD99E`](https://github.com/akk1to.gpg)
-* 🌐 My website: [**akk1to.tech**](https://akk1to.tech)
-* 📧 Email: <a href="contact@akk1to.tech">**contact@akk1to.tech**</a>
+## Information
+* My birthday is November 20th, 2009 (now I'm 17 years old).
+* I'm living at Ho Chi Minh City, Vietnam. My public IP is 172.0.20.1 (please hit me with 30Tbps).
+* My timezone is GMT+07, Asia/Ho_Chi_Minh zone (Asia/BangKok - Asia/Hanoi).
+* Currently a second-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/) @ Online Student @ [**TryHackMe**](https://tryhackme.com).
+* I started to coding since 6 years ago, started with Python. Now I have 4 year of experience of full-stack development, now leading [**NekoTech Foundation**](https://nekofoundation.tech).
+* Currently I'm working on a lot of projects myself and for my team. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories).
+* **Some highlight project:** NekoComics, NekoAnime, NekoAI,...
+* I play Minecraft, Valorant, Honkai: Star Rail, and more. Scroll down below to know my list of games I'm playing and my game information.
+* I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://anime.akk1to.tech/) (vibe 36/67, not updated for a while).
+* Daily-driving a Asus TUF F15 F15 FX506LI_FX506LI & Lenovo Ideapad Slim 3 15AMN8.
+* [Arch Linux](https://archlinux.org/) ([EndeavourOS](https://endeavouros.com) fork) user, with [Hyprland](https://hypr.land) Desktop Environment ([illogical-impulse](https://github.com/end-4/dots-hyprland) dotfiles)
+* My GPG key: [`9854B2B3B8B4F4EA`](https://github.com/akk1to.gpg)
+* My website: [**akk1to.tech**](https://akk1to.tech)
+* Email: <a href="contact@akk1to.tech">**contact@akk1to.tech**</a>
 
-**For more infomation about my devices [visit this link](https://devices.akk1to.is-a.dev)**
-***
-## &#x1f4c8; My GitHub Stats
+## Github Status
 <p align="center">
-<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=akk1to&count_private=true&theme=tokyonight&show_icons=true" height="150px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akk1to&count_private=true&theme=tokyonight&show_icons=true" height="150px" />
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akk1to&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="150px" />
+<!-- <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1to.github.io&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=chuyentinorz-landing-pages&theme=dark" />
@@ -50,19 +52,51 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=cf-problems&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akk1to&repo=akk1toprof&theme=dark" />
-<br>
+<br> -->
 </p>
-
-## &#x1f4c8; Github achivements
-![trophy](https://github-profile-trophy.vercel.app/?username=akk1to&theme=onedark&row=1)
 
 ## &#x1f4c8; About my workspace
-<p align="center">
-  <img src="https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Radeon_7520U%20@%202.8GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Radeon%20610M-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-</p>
+**Laptop 1:** [Asus TUF F15 FX506LI](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15/techspec/), running [EndeavourOS](https://endeavouros.com) x [Hyprland](https://hypr.land) with [illogical-impulse](https://github.com/end-4/dots-hyprland)
+
+![laptop-model-1](https://img.shields.io/badge/asus%20tuf%20f15%20FX506LI-000000?style=for-the-badge&logo=asus&logoColor=white)
+![laptop-cpu-2](https://img.shields.io/badge/Intel(r)%20Core(tm)%20i7%2010870h%20(16)%20@%205.0GHz-095BB3?style=for-the-badge&logo=intel&logoColor=white)
+![laptop-ram-2](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![laptop-gpu-2](https://img.shields.io/badge/NVIDIA%20Geforce%20GTX%201650ti-7BBB08?style=for-the-badge&logo=nvidia&logoColor=white)
+
+```
+
+                     ./o.                   stateofmind@workzone
+                   ./sssso-                 --------------------
+                 `:osssssss+-               OS: EndeavourOS x86_64
+               `:+sssssssssso/.             Host: ASUS TUF Gaming F15 FX506LI_FX506LI (1.0)
+             `-/ossssssssssssso/.           Kernel: Linux 6.12.65-1-lts
+           `-/+sssssssssssssssso+:`         Uptime: 6 hours, 29 mins
+         `-:/+sssssssssssssssssso+/.        Packages: 1278 (pacman)
+       `.://osssssssssssssssssssso++-       Shell: fish 4.3.3
+      .://+ssssssssssssssssssssssso++:      Display (LS24C31x): 1920x1080 in 24", 60 Hz [External]
+    .:///ossssssssssssssssssssssssso++:     Display (CMN1521): 1920x1080 in 15", 144 Hz [Built-in]
+  `:////ssssssssssssssssssssssssssso+++.    WM: Hyprland 0.53.1 (Wayland)
+`-////+ssssssssssssssssssssssssssso++++-    Cursor: Adwaita
+ `..-+oosssssssssssssssssssssssso+++++/`    Terminal: kitty 0.45.0
+   ./++++++++++++++++++++++++++++++/:.      Terminal Font: JetBrainsMonoNF-Regular (11pt)
+  `:::::::::::::::::::::::::------``        CPU: Intel(R) Core(TM) i7-10870H (16) @ 5.00 GHz
+                                            GPU 1: NVIDIA GeForce GTX 1650 Ti Mobile [Discrete]
+                                            GPU 2: Intel UHD Graphics @ 1.15 GHz [Integrated]
+                                            Memory: 6.66 GiB / 7.59 GiB (88%)
+                                            Swap: 7.34 GiB / 8.00 GiB (92%)
+                                            Disk (/): 24.65 GiB / 78.19 GiB (32%) - ext4
+                                            Disk (/home): 18.56 GiB / 121.44 GiB (15%) - ext4
+                                            Local IP (wlan0): 192.168.2.67/24
+                                            Battery (A32-K55): 98% [AC Connected]
+                                            Locale: en_US.UTF-8
+```
+
+**Laptop 2:** [Lenovo Ideapad Slim 3 15AMN8](https://www.amazon.in/Lenovo-Ideapad-Backlit-Keyboard-82XQ008VIN/dp/B0CD4BQ4SF)
+
+![laptop-model-2](https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![laptop-cpu-2](https://img.shields.io/badge/Intel(r)%20Core(tm)%20i7%2010870h%20(16)%20@%205.0GHz-ED1C24?style=for-the-badge&logo=intel&logoColor=white)
+![laptop-ram-2](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![laptop-gpu-2](https://img.shields.io/badge/AMD%20Radeon%20610M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ```
 Laptop: Lenovo Ideapad Slim 3 15AMN8 (82XQ00J0VN - Model 82XQ)
@@ -76,9 +110,7 @@ Hubs: x1 3.5mm Hub, x2 USB 3.2, x1 HDMI 2.1, x1 USB-C 3.2 (data transfer, PowerD
 Connections: Bluetooth 5.2, Wi-Fi 6 (802.11ax)
 Size: 359.3mm length x 235mm wide x 17.9mm height - 1.62kg
 Battery: 4-cell 47Wh (up to 6 hours long, have Rapid Charge)
-OS: Windows 11 Home (Single Language) 64-bit (10.0, build 22631) (installed on 12/1/2025 [I reseted the laptop lmao])
-Customization: MyDockFinder + WallpaperEngine + FlowLauncher + Rainmeter (akk1to/theme-configuration)
-Authentication: Windows Hello (Fingerprint reader)
+OS: Windows Server 2022 (Single Language) Enterprise Destop Environment
 ```
 
 <p align="center">
