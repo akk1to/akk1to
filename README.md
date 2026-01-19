@@ -6,8 +6,9 @@
 <h1>the state of mind (akk1to.dev)</h1>
 
 A self-motivated developer, loves learning by doing projects<br>
-I work as a student at the day and a full-stack software engineer at the night<br>
-akk1to x ValerieAstro0o, since October 23, 2025<br>
+I work as a student at the day and a full-stack software engineer at the night
+Founder @ [NekoTech Foundation](https://nekofoundation.tech)
+<p class="text-sm mt--50">akk1to x ValerieAstro0o, since October 23, 2025</p><br>
 
 ---
   
@@ -26,17 +27,19 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 * My birthday is November 20th, 2009 (now I'm 17 years old).
 * I'm living at Ho Chi Minh City, Vietnam. My public IP is 172.0.20.1 (please hit me with 30Tbps).
 * My timezone is GMT+07, Asia/Ho_Chi_Minh zone (Asia/BangKok - Asia/Hanoi).
-* Currently a second-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/) @ Online Student @ [**TryHackMe**](https://tryhackme.com).
-* I started to coding since 6 years ago, started with Python. Now I have 4 year of experience of full-stack development, now leading [**NekoTech Foundation**](https://nekofoundation.tech).
-* Currently I'm working on a lot of projects myself and for my team. If you interested about some of my projects, visit list of my repositories [**here**](https://github.com/akk1to?tab=repositories).
-* **Some highlight project:** NekoComics, NekoAnime, NekoAI,...
+* Currently a second-year @ [**Ben Cat High School**](https://thptbencat.edu.vn/) @ Online Student @ [**Github Education**](https://github.com/education).
+* I started to coding since 6 years ago, started with Python. Now I have 4 year of experience of full-stack development.
+* Founder & leading [**NekoTech Foundation**](https://nekofoundation.tech). Open for commission & job.
+* Working on a lot of [projects](https://github.com/akk1to?tab=repositories). Focusing on [NekoAI](https://ai.nekofoundation.tech)
 * I play Minecraft, Valorant, Honkai: Star Rail, and more. Scroll down below to know my list of games I'm playing and my game information.
-* I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://anime.akk1to.tech/) (vibe 36/67, not updated for a while).
+* I love to watch anime, specially about love/romcon. You can visit my anime watch list [**here**](https://anime.akk1to.tech/) or on [**AniiList**](https://anilist.co/user/akkito/).
 * Daily-driving a Asus TUF F15 F15 FX506LI_FX506LI & Lenovo Ideapad Slim 3 15AMN8.
-* [Arch Linux](https://archlinux.org/) ([EndeavourOS](https://endeavouros.com) fork) user, with [Hyprland](https://hypr.land) Desktop Environment ([illogical-impulse](https://github.com/end-4/dots-hyprland) dotfiles)
+* [Arch Linux](https://archlinux.org/) ([EndeavourOS](https://endeavouros.com) fork) user, with [Hyprland](https://hypr.land) Desktop Environment ([illogical-impulse](https://github.com/end-4/dots-hyprland) dotfiles).
 * My GPG key: [`9854B2B3B8B4F4EA`](https://github.com/akk1to.gpg)
 * My website: [**akk1to.tech**](https://akk1to.tech)
-* Email: <a href="contact@akk1to.tech">**contact@akk1to.tech**</a>
+* My email: <a href="contact@akk1to.tech">**contact@akk1to.tech**</a>
+* My Discord: [**@undefiinedstate**](https://www.akk1to.tech/socials/discord)
+* For more information about my socials. visit [**my website**](https://akk1to.tech) to know more!
 
 ## Github Status
 <p align="center">
@@ -55,7 +58,7 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
 <br> -->
 </p>
 
-## &#x1f4c8; About my workspace
+## My workspace
 **Laptop 1:** [Asus TUF F15 FX506LI](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15/techspec/), running [EndeavourOS](https://endeavouros.com) x [Hyprland](https://hypr.land) with [illogical-impulse](https://github.com/end-4/dots-hyprland)
 
 ![laptop-model-1](https://img.shields.io/badge/asus%20tuf%20f15%20FX506LI-000000?style=for-the-badge&logo=asus&logoColor=white)
@@ -91,7 +94,7 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
                                             Locale: en_US.UTF-8
 ```
 
-**Laptop 2:** [Lenovo Ideapad Slim 3 15AMN8](https://www.amazon.in/Lenovo-Ideapad-Backlit-Keyboard-82XQ008VIN/dp/B0CD4BQ4SF)
+**Laptop 2:** [Lenovo Ideapad Slim 3 15AMN8](https://www.amazon.in/Lenovo-Ideapad-Backlit-Keyboard-82XQ008VIN/dp/B0CD4BQ4SF), running [Windows Server 2022 (Single Language) Enterprise Destop Environment](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 ![laptop-model-2](https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![laptop-cpu-2](https://img.shields.io/badge/Intel(r)%20Core(tm)%20i7%2010870h%20(16)%20@%205.0GHz-ED1C24?style=for-the-badge&logo=intel&logoColor=white)
