@@ -6,9 +6,9 @@
 <h1>the state of mind (akk1to.dev)</h1>
 
 A self-motivated developer, loves learning by doing projects<br>
-I work as a student at the day and a full-stack software engineer at the night
+I work as a student at the day and a full-stack software engineer at the night<br>
 Founder @ [NekoTech Foundation](https://nekofoundation.tech)
-<p class="text-sm mt--50">akk1to x ValerieAstro0o, since October 23, 2025</p><br>
+<p class="text-sm mt--50">akk1to x ValerieAstro0o, since October 23, 2025</p>
 
 ---
   
@@ -94,6 +94,9 @@ So, if you wanna explore it with me, let's journey together into the exciting wo
                                             Locale: en_US.UTF-8
 ```
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b4e67b9a-89d2-4691-81df-298fc9dbe13c" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b30dedc1-9f53-4bb4-a53d-7334cdee47ce" />
+
 **Laptop 2:** [Lenovo Ideapad Slim 3 15AMN8](https://www.amazon.in/Lenovo-Ideapad-Backlit-Keyboard-82XQ008VIN/dp/B0CD4BQ4SF), running [Windows Server 2022 (Single Language) Enterprise Destop Environment](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 ![laptop-model-2](https://img.shields.io/badge/lenovo%20ideapad%20slim%203%2015AMN8-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
@@ -124,7 +127,7 @@ OS: Windows Server 2022 (Single Language) Enterprise Destop Environment
 <img align="center" src="https://github.com/user-attachments/assets/65943024-0ac6-49a3-bdf4-04ee48c6d34f" />
 </p>
 
-## &#x1f4c8; My Wakatime status
+## Wakatime Status
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akk1to&theme=dark&layout=compact" width="800" />
 </p>
@@ -141,19 +144,19 @@ YAML           1 hr 31 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-## &#x1f4c8; My Discord status
+## Discord status
 ![status](https://api.statusbadges.me/badge/status/727497287777124414?style=for-the-badge)
 ![playing](https://api.statusbadges.me/badge/playing/727497287777124414?style=for-the-badge)
 ![vscode](https://api.statusbadges.me/badge/vscode/727497287777124414?style=for-the-badge)
 [![spotify](https://api.statusbadges.me/badge/spotify/727497287777124414?style=for-the-badge)](https://api.statusbadges.me/openspotify/727497287777124414)
-<p align="center">
-<img align="center" src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
+<p>
+<img src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
 </p>
 
 ## 🎧 Now listening to
 
 <p align="center">
-  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ki3izwarkotf2krqm2cepjadka&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ki3izwarkotf2krqm2cepjadka&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="1200" height="auto">
 </p>
 
 ## &#x1f4c8; Anime Stats
