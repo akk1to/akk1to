@@ -149,79 +149,60 @@ YAML           1 hr 31 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![playing](https://api.statusbadges.me/badge/playing/727497287777124414?style=for-the-badge)
 ![vscode](https://api.statusbadges.me/badge/vscode/727497287777124414?style=for-the-badge)
 [![spotify](https://api.statusbadges.me/badge/spotify/727497287777124414?style=for-the-badge)](https://api.statusbadges.me/openspotify/727497287777124414)
+
 <p>
 <img src="https://lanyard.cnrad.dev/api/727497287777124414" width="800" />
 </p>
 
-## 🎧 Now listening to
+## Listening to (Spotify)
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ki3izwarkotf2krqm2cepjadka&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="1200" height="auto">
 </p>
+
+### **Favourite albums:**
+
+_Click on the album card to open it in Spotify_
+
+[**L2K - Low G**](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx), released in 2025
+
+[![](https://github.com/user-attachments/assets/7491f1a7-dcd6-4213-bd97-7fea7cd50fc8)](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx)
+
+[**99% - MCK**](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu), released in 2023
+
+[![](https://github.com/user-attachments/assets/1616c213-f500-4352-b757-8bf1130168b1)](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu)
+
+[**Đánh đổi - Obito**](https://open.spotify.com/album/03ZYR4zwCrkSsXTROnK2d0), released in 2023
+
+[![](https://github.com/user-attachments/assets/63d3c0e7-8c01-44b1-a290-d11be3cfda76)](https://open.spotify.com/album/03ZYR4zwCrkSsXTROnK2d0)
+
+[**Từng ngày như mãi mãi - buitruonglinh**](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D), released in 2024
+
+[![](https://github.com/user-attachments/assets/06c6e566-2557-44a7-baa5-0651de894899)](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D)
 
 ## &#x1f4c8; Anime Stats
 <p align="center">
 <img align="center" src="https://img.anili.st/user/7119125" width="800">
 </p>
 
-<details>
-<summary>Recent Anilist Activity</summary>
-  
-<!-- anilist_activity starts -->
-
-<!-- anilist_activity ends -->
-
-</details>
-
-<details>
-<summary>List of favourite animes</summary>
-  
-<!-- favorites_anime starts -->
-
-<!-- favorites_anime ends -->
-
-</details>
-
-<details>
-<summary>List of favorite characters</summary>
-  
-<!-- favorites_characters starts -->
-
-<!-- favorites_characters ends -->
-
-</details>
-
-<details>
-<summary>List of favorite mangas</summary>
-  
-<!-- favorites_manga starts -->
-
-<!-- favorites_manga ends -->
-
-</details>
-
-*Anilist status will automatically update every 5mins if change exits (broken)*
-
 ## 📫 My Blogpost
 
 <!-- feed start -->
-- 5 March - [[Tài liệu công khai] Toàn văn giới thiệu về tổ chức The Base](https://blog.chuyentinorz.is-a.dev/gbd-al001/)
+Not updated yet, i'll move to the new blog page and start posting soon.
 <!-- feed end -->
 
 ## 🎮 Games I'm playing
 * Steam Account: MikuStillLove (killme091).
-* Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55)
-* Minecraft: KuzekiHitoru (Premium account) & DreamsDragon_YTB (non-Premium account)
-* Valorant: Kanna Kamui#Kamui
+* Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55).
+* Honkai Star Rail: 832817566 (Asia, Lv. 62)
+* Minecraft: undefiinedstate (Premium account, MVP+ in Hypixel) & DreamsDragon_YTB (non-Premium account)
+* Valorant: f4lleninl4v#0xf7
 * Strinova: Mahiruchan (Gold IV, 15/1/2024)
 
-## 🎶 Listen to my favourite playlist: Album Từng ngày như mãi mãi - buitruonglinh
-
-You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on Spotify [right here](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D?si=SnKED_4RSzWeSSX3yjnOeg).
-
-![image](https://github.com/user-attachments/assets/ee7ea0a6-aadf-4320-b8ed-8e1f16574839)
-
 ## 💻 Contact me through
+
+> [!NOTE]
+> For quick reply, please message me on Discord (@undefiinedstate)
 
 <p align="left">
 <a href="https://twitter.com/dragondev_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragondev_vn" height="30" width="40" /></a>
@@ -233,7 +214,7 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 <a href="https://codeforces.com/profile/akk1to.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akk1to.dev" height="30" width="40" /></a>
 </p>
 
-## 🗃️ Recent activities
+## Recent Github activities
 
 <!--START_SECTION:activity-->
 
@@ -251,8 +232,13 @@ You can listen to Album Từng ngày như mãi mãi, written by buitruonglinh on
 <p align="center">
   Thank you for visiting my profile!<br>
   More information can be found on my own website.<br>
-  Website: akk1to.is-a.dev<br>
-  Contact through mail: contact@akk1to.is-a.dev
+  Website: akk1to.tech<br>
+  Contact through mail: contact@akk1to.tech<br>
+  Contact through Discord: @undefiinedstate
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
+---
+
+<p align="center">Copyright @ 2026 akk1to.tech
