@@ -180,18 +180,18 @@ _Click on the album card to open it in Spotify_
 
 [![](https://github.com/user-attachments/assets/06c6e566-2557-44a7-baa5-0651de894899)](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D)
 
-## &#x1f4c8; Anime Stats
+## Anime Stats
 <p align="center">
 <img align="center" src="https://img.anili.st/user/7119125" width="800">
 </p>
 
-## 📫 My Blogpost
+## My Blogpost
 
 <!-- feed start -->
 Not updated yet, i'll move to the new blog page and start posting soon.
 <!-- feed end -->
 
-## 🎮 Games I'm playing
+## Games I'm playing
 * Steam Account: MikuStillLove (killme091).
 * Genshin Impact: 842885536 (Asia, Lv. 55) & 837774605 (Asia, Lv. 55).
 * Honkai Star Rail: 832817566 (Asia, Lv. 62)
@@ -199,7 +199,15 @@ Not updated yet, i'll move to the new blog page and start posting soon.
 * Valorant: f4lleninl4v#0xf7
 * Strinova: Mahiruchan (Gold IV, 15/1/2024)
 
-## 💻 Contact me through
+## Donate for me
+
+If you wanna support my work, please donate for me using these address:
+- BTC: `bc1q3x32c2dvwtymsk7fqfpwvdxdcth4vk9l8ztnz7`
+- ETH: `0x047B2f44d990357fa3Cd7a3F6Eba8Df7384E953d`
+- ETC: `0xcD537A3280A0E93e3505E7ce29139071e819cC9c`
+- USDT: `0x047B2f44d990357fa3Cd7a3F6Eba8Df7384E953d`
+
+## Contact me through
 
 > [!NOTE]
 > For quick reply, please message me on Discord (@undefiinedstate)
