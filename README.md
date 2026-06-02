@@ -8,7 +8,7 @@
 A self-motivated developer, loves learning by doing projects<br>
 I work as a student at the day and a full-stack software engineer at the night<br>
 Founder @ [NekoTech Foundation](https://nekofoundation.tech)
-<p class="text-sm mt--50">akk1to x ValerieAstro0o, since October 23, 2025</p>
+<!-- <p class="text-sm mt--50">akk1to x ValerieAstro0o, since October 23, 2025</p> -->
 
 ---
   
